@@ -2,7 +2,6 @@
 
 
 
-
 class Automobile {
 private Integer year;
 private Double price;
